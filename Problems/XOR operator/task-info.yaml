@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def xor(a, b):
+        # Write your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/10332#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 24 Dec 2020 17:04:23 UTC
+record: -1
