@@ -1,0 +1,7 @@
+Problems/
+.idea/
+*.yaml
+*.html
+To-Do List/task/todolist/__pycache__/__init__.cpython-39.pyc
+To-Do List/task/todolist/__pycache__/todolist.cpython-39.pyc
+To-Do List/task/tests.py
